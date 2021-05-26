@@ -1,3 +1,30 @@
 header {
-  background-color: #e085c2;
+  background-color: #66ff99;
+}
+
+h2 {
+  background-color: #b3ccff;
+  color: #cc7a00;
+  text-align: center;
+}
+
+h3 {
+  background-color: #66b3ff;
+  color: #e6e600;
+  text-align: center;
+}
+
+img {
+  display: block;
+  border: 1px dotted black;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.info {
+  border: 2px solid black;
+  width: 50%;
+  padding: 2px;
+  margin: auto;
 }
